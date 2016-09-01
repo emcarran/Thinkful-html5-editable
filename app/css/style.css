@@ -1,0 +1,9 @@
+.container {
+    margin-top: 25px;
+    padding: 2px 2px 2px 2px;
+}
+
+.editing {
+    border: 2px solid darkblue;
+    background-color: #eee;
+}
